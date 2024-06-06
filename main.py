@@ -19,3 +19,5 @@ english_text = translate_french_to_english(french_text)
 # Print the original French text and the translated English text
 print(f"Original French: {french_text}")
 print(f"Translated English: {english_text}")
+
+#Thanks to Stan I learnt this
