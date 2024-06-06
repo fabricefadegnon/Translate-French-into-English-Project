@@ -9,7 +9,6 @@ def translate_french_to_english(text):
     # Return the translated text
     return translation
 
-
 # Get user input for French text
 french_text = input("Insérez un texte: ")
 
